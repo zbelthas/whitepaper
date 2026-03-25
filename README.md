@@ -3,7 +3,9 @@
 # Zbelthas™ Whitepaper Suite
 
 ---
-<a href="download_pdf/public_whitepaper.pdf" download>📥 Download our complete whitepaper</a>
+
+[📥 Download our complete whitepaper](download_pdf/public_whitepaper.pdf)
+
 
 ---
 
