@@ -1,0 +1,30 @@
+
+PROPRIETARY LICENSE
+
+Copyright © 2026 Zbelthas Project.
+All rights reserved.
+
+Zbelthas™ is a registered trademark.
+
+This repository and the documentation/software contained herein are the exclusive property of the Zbelthas Project. 
+
+Access to this repository is provided for public review and consultation only. 
+
+Any copying, reproduction, modification, distribution, or commercial use of the contents without prior explicit written permission from the author is strictly prohibited. 
+
+By accessing this repository, you agree to comply with these terms.
+
+
+
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
+║    ███████╗██████╗ ███████╗██╗  ████████╗██╗  ██╗ █████╗ ███████╗           ║
+║    ╚══███╔╝██╔══██╗██╔════╝██║  ╚══██╔══╝██║  ██║██╔══██╗██╔════╝           ║
+║      ███╔╝ ██████╔╝█████╗  ██║     ██║   ███████║███████║███████╗           ║
+║     ███╔╝  ██╔══██╗██╔══╝  ██║     ██║   ██╔══██║██╔══██║╚════██║           ║
+║    ███████╗██████╔╝███████╗███████╗██║   ██║  ██║██║  ██║███████║           ║
+║    ╚══════╝╚═════╝ ╚══════╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝           ║
+║                                                                             ║
+║           E N T E R P R I S E   P R I V A C Y   P L A T F O R M             ║
+║                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════╝
