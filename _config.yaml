@@ -4,3 +4,7 @@ plugins:
   
 include:
   - download
+
+  include:
+  - whitepaper
+
