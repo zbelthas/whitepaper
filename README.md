@@ -2,6 +2,11 @@
 
 # Zbelthas™ Whitepaper Suite
 
+---
+<a href="download_pdf/public_whitepaper.pdf" download>📥 Download our complete whitepaper</a>
+
+---
+
 ## Understanding the Future of Digital Asset Security
 
 ---
