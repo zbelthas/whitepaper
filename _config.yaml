@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
   
 include:
-  - download
+  - download_pdf
 
   include:
   - whitepaper
